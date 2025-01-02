@@ -126,6 +126,12 @@ ex)
 
 <br>
 
+## 투자
+
+- [방망이를 짧게 잡아라](./theme/coin/trader.md)
+
+<br>
+
 # 👥 Contributors
 
 <a href="https://github.com/onealand/quotations-book/graphs/contributors">
