@@ -134,6 +134,12 @@ ex)
 
 <br>
 
+## 투자
+
+- [방망이를 짧게 잡아라](./theme/investment/hold-the-bat-short.md)
+
+<br>
+
 # 👥 Contributors
 
 <a href="https://github.com/onealand/quotations-book/graphs/contributors">
